@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1587562706 source:c:\users\syrov\desktop\123\main.cpp
+	<iostream>
+	"ElectronicDevace.h"
+	"Smartphone.h"
+	"Notebook.h"
+	"Pad.h"
+	"Smartwatch.h"
+
+1586269256 source:c:\users\syrov\desktop\123\bye.cpp
+	"hello.h"
+	<iostream>
+
+1586269347 c:\users\syrov\desktop\123\hello.h
+	<iostream>
+
+1587562771 source:c:\users\syrov\desktop\123\electronicdevace.cpp
+	<iostream>
+	"ElectronicDevace.h"
+
+1587562836 c:\users\syrov\desktop\123\electronicdevace.h
+	<iostream>
+
+1586707106 c:\users\syrov\desktop\123\smartphone.h
+	<iostream>
+
+1586889320 source:c:\users\syrov\desktop\123\smartphone.cpp
+	<iostream>
+	"ElectronicDevace.h"
+	"Smartphone.h"
+
+1586889320 source:c:\users\syrov\desktop\123\notebook.cpp
+	<iostream>
+	"ElectronicDevace.h"
+	"Notebook.h"
+
+1586889320 source:c:\users\syrov\desktop\123\pad.cpp
+	<iostream>
+	"ElectronicDevace.h"
+	"Pad.h"
+
+1586889320 source:c:\users\syrov\desktop\123\smartwatch.cpp
+	<iostream>
+	"ElectronicDevace.h"
+	"Smartwatch.h"
+
+1586707106 c:\users\syrov\desktop\123\notebook.h
+	<iostream>
+
+1587562823 c:\users\syrov\desktop\123\pad.h
+	<iostream>
+
+1586709023 c:\users\syrov\desktop\123\smartwatch.h
+	<iostream>
+
